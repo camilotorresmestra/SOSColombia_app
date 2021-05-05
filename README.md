@@ -9,3 +9,6 @@ En vista de la cantidad alarmante de denuncias por violaciones a los Derechos Hu
 Esto con el fin de facilitar el trabajo de los organismos de Vigilancia de Derechos Humanos anivel nacional e internacional, al tener los datos en un formato estándar, y centralizados en una sola plataforma para poder hacer seguimiento a los casos.
 
 El sistema de recopilación de datos se puede implementar mediante una aplicación móvil o una interfaz web.
+
+##Comunicación
+El canal de comunicación será el servidor de discord SOSColombia_app : https://discord.gg/nNRgKNxE
